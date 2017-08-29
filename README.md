@@ -1,1 +1,2 @@
 # autotest
+# Lenovo OS team
